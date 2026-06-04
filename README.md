@@ -1,7 +1,7 @@
-# Hi there! I'm Abhishek Kumar 👋
+# Abhishek Kumar 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&background=00000000&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,51 +30,117 @@
 
 ---
 
-## 💫 About Me
+## 📖 Professional Summary
 
-I am a passionate software engineer focused on building clean, high-performance web applications. I love open-source collaboration, learning new technologies, and designing intuitive user interfaces.
+> **"Striving to write code that is clean, highly scalable, and optimized for performance."**
 
-- 🔭 **I’m currently working on**: Pushing updates to [Nainix Marketplace](https://github.com/abhixyzq/nainix-marketplace) and [AbhiKart](https://github.com/abhixyzq/AbhiKart).
-- 🌱 **I’m currently learning**: Advanced TypeScript, scalable Node.js architecture, and React performance optimizations.
-- 👯 **I’m looking to collaborate on**: Interactive frontend frameworks, e-commerce solutions, and developer tooling.
-- 💬 **Ask me about**: JavaScript, TypeScript, Express, React, and MongoDB/PostgreSQL.
-- ⚡ **Fun fact**: I love solving algorithmic puzzles and optimizing code performance.
+I am a Full Stack Developer specializing in building high-quality web applications. I focus on modular architectures, solid design principles, and user-centric frontend experiences. I love translating complex product requirements into simple, functional, and performant solutions.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack & Domain Expertise
 
-### 💻 Languages & Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express" />
-  </a>
-</p>
-
-### 🗄️ Databases, Tools & Platforms
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode,postman,docker" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Frontend & Languages</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" alt="Frontend Stack" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Databases</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" alt="Backend Stack" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🔧 Developer Tooling & Platforms</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Tools Stack" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🛍️ Featured Projects & Portfolio
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ Nainix Marketplace</h3>
+      <p>A modern peer-to-peer e-marketplace designed to support digital asset sharing, secure transactions, and custom user storefronts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+      </p>
+      <p>
+        <a href="https://github.com/abhixyzq/nainix-marketplace"><b>🔗 GitHub Repo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 AbhiKart</h3>
+      <p>A full-featured, responsive e-commerce web application featuring optimized cart workflows, page routing, and state management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </p>
+      <p>
+        <a href="https://github.com/abhixyzq/AbhiKart"><b>🔗 GitHub Repo</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏫 Disha School Frontend</h3>
+      <p>An educational platform user interface featuring responsive design, interactive school dashboards, and intuitive portals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+      </p>
+      <p>
+        <a href="https://github.com/abhixyzq/disha-school-frontend"><b>🔗 GitHub Repo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Nainix Backend</h3>
+      <p>Highly scalable API services backing marketplace integrations, featuring custom middleware, security headers, and DB connection pooling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <p>
+        <a href="https://github.com/abhixyzq/nainix-backend"><b>🔗 GitHub Repo</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Live Metrics & GitHub Analytics
 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhixyzq&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhixyzq&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="380" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhixyzq&theme=tokyonight" alt="GitHub Streak" width="400" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhixyzq&theme=tokyonight" alt="GitHub Streak" width="380" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixyzq&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixyzq&layout=compact&theme=tokyonight" alt="Top Languages" width="380" />
       </td>
     </tr>
   </table>
@@ -82,7 +148,7 @@ I am a passionate software engineer focused on building clean, high-performance 
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Achievement Trove
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhixyzq&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
@@ -90,6 +156,7 @@ I am a passionate software engineer focused on building clean, high-performance 
 
 <br />
 
-<div align="center">
-  <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
-</div>
+<hr />
+<p align="center">
+  <i>Let's build something amazing together! Find more of my repositories at <a href="https://github.com/abhixyzq?tab=repositories">github.com/abhixyzq</a></i>
+</p>
