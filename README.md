@@ -85,6 +85,20 @@ A passionate Full Stack Software Engineer with expertise in designing robust web
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixyzq&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="500" />
 </div>
 
+### ⚡ WakaTime Coding Stats
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhixyzq&theme=tokyonight" alt="WakaTime Stats" width="395" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhixyzq&theme=tokyonight&layout=compact" alt="WakaTime Stats Compact" width="395" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🎯 Key Metrics
