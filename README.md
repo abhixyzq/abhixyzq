@@ -132,15 +132,18 @@ I am a Full Stack Developer specializing in building high-quality web applicatio
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhixyzq&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="380" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhixyzq&theme=tokyonight" alt="GitHub Profile Details" width="380" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhixyzq&theme=tokyonight" alt="GitHub Streak" width="380" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixyzq&layout=compact&theme=tokyonight" alt="Top Languages" width="380" />
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhixyzq&theme=tokyonight" alt="Top Languages" width="380" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhixyzq&theme=tokyonight" alt="GitHub Overall Stats" width="380" />
       </td>
     </tr>
   </table>
@@ -148,10 +151,10 @@ I am a Full Stack Developer specializing in building high-quality web applicatio
 
 ---
 
-## 🏆 Achievement Trove
+## 📈 Activity & Contribution History
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhixyzq&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhixyzq&theme=tokyonight" alt="Contribution Graph" width="800" />
 </div>
 
 <br />
