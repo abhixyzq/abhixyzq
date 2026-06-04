@@ -1,7 +1,7 @@
 # 💼 Abhishek Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=60&lines=🚀+Full+Stack+Software+Engineer;💡+Architecting+Scalable+Systems;🔧+Building+Robust+Web+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=32&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=60&lines=🚀+Full+Stack+Software+Engineer;💡+Architecting+Scalable+Systems;🔧+Building+Robust+Web+Applications" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -72,17 +72,17 @@ A passionate Full Stack Software Engineer with expertise in designing robust web
 
 ### 📈 Overall Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhixyzq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="500" />
+  <img src="https://github-readme-stats.shion.dev/api?username=abhixyzq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="500" />
 </div>
 
 ### 🔥 Contribution Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhixyzq&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
+  <img src="https://streak-stats.demolab.com/?user=abhixyzq&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
 </div>
 
 ### 💻 Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixyzq&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="500" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhixyzq&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="500" />
 </div>
 
 ### ⚡ WakaTime Coding Stats
@@ -90,10 +90,10 @@ A passionate Full Stack Software Engineer with expertise in designing robust web
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhixyzq&theme=tokyonight" alt="WakaTime Stats" width="395" />
+        <img src="https://github-readme-stats.shion.dev/api/wakatime?username=abhixyzq&theme=tokyonight" alt="WakaTime Stats" width="395" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhixyzq&theme=tokyonight&layout=compact" alt="WakaTime Stats Compact" width="395" />
+        <img src="https://github-readme-stats.shion.dev/api/wakatime?username=abhixyzq&theme=tokyonight&layout=compact" alt="WakaTime Stats Compact" width="395" />
       </td>
     </tr>
   </table>
