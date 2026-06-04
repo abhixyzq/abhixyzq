@@ -70,28 +70,19 @@ A passionate Full Stack Software Engineer with expertise in designing robust web
 
 ## 📊 GitHub Analytics
 
+### 📈 Overall Statistics
 <div align="center">
-  
-  ### 📈 Overall Statistics
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhixyzq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=abhixyzq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="500" />
 </div>
 
+### 🔥 Contribution Streak
 <div align="center">
-  
-  ### 🔥 Contribution Streak
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhixyzq&theme=tokyonight&hide_border=true)
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhixyzq&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
 </div>
 
+### 💻 Most Used Languages
 <div align="center">
-  
-  ### 💻 Most Used Languages
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhixyzq&theme=tokyonight&layout=compact&hide_border=true)
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixyzq&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="500" />
 </div>
 
 ---
@@ -100,12 +91,9 @@ A passionate Full Stack Software Engineer with expertise in designing robust web
 
 <div align="center">
   
-  | Metric | Value |
-  |--------|-------|
-  | 📚 Public Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abhixyzq&query=public_repos&label=Repositories&color=7aa2f7&style=flat-square) |
-  | 🌟 Total Stars | ![Stars](https://img.shields.io/github/stars/abhixyzq?style=flat-square&color=7aa2f7&label=Stars) |
-  | 👥 Followers | ![Followers](https://img.shields.io/github/followers/abhixyzq?style=flat-square&color=7aa2f7&label=Followers) |
-  | 📊 Contributions | Always growing |
+  | 📚 Repositories | 🌟 Stars | 👥 Followers |
+  |:---:|:---:|:---:|
+  | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abhixyzq&query=public_repos&label=Repositories&color=7aa2f7&style=flat-square) | ![Stars](https://img.shields.io/github/stars/abhixyzq?style=flat-square&color=7aa2f7) | ![Followers](https://img.shields.io/github/followers/abhixyzq?style=flat-square&color=7aa2f7) |
   
 </div>
 
@@ -114,9 +102,7 @@ A passionate Full Stack Software Engineer with expertise in designing robust web
 ## 📈 Activity & Contribution History
 
 <div align="center">
-  
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhixyzq&theme=tokyonight&hide_border=true)
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhixyzq&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="800" />
 </div>
 
 ---
